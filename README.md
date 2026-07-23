@@ -1,1 +1,1 @@
-## This repo consist Calculator.
+## This repo consist Simple Calculator.
